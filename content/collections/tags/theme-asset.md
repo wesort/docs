@@ -1,5 +1,5 @@
 ---
-title: Asset
+title: Theme Asset
 overview: Get the URL to a file in your theme.
 parameters:
   -
